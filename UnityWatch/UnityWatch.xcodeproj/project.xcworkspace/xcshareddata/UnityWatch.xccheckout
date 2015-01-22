@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ADDAF15B-CBFB-478B-B9AF-2BEA8A8C7AA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UnityWatch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52D34B4C3EFCE329B2ABD564BCCB7F9D2B61A72C</key>
+		<string>https://github.com/CoconutIslandStudio/UniWatch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UnityWatch/UnityWatch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52D34B4C3EFCE329B2ABD564BCCB7F9D2B61A72C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CoconutIslandStudio/UniWatch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52D34B4C3EFCE329B2ABD564BCCB7F9D2B61A72C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52D34B4C3EFCE329B2ABD564BCCB7F9D2B61A72C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UniWatch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
